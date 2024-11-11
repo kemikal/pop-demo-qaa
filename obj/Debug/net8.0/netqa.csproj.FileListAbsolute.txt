@@ -1,0 +1,14 @@
+/Users/jannekemi/repos/temp/netqa/bin/Debug/net8.0/netqa
+/Users/jannekemi/repos/temp/netqa/bin/Debug/net8.0/netqa.deps.json
+/Users/jannekemi/repos/temp/netqa/bin/Debug/net8.0/netqa.runtimeconfig.json
+/Users/jannekemi/repos/temp/netqa/bin/Debug/net8.0/netqa.dll
+/Users/jannekemi/repos/temp/netqa/bin/Debug/net8.0/netqa.pdb
+/Users/jannekemi/repos/temp/netqa/obj/Debug/net8.0/netqa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jannekemi/repos/temp/netqa/obj/Debug/net8.0/netqa.AssemblyInfoInputs.cache
+/Users/jannekemi/repos/temp/netqa/obj/Debug/net8.0/netqa.AssemblyInfo.cs
+/Users/jannekemi/repos/temp/netqa/obj/Debug/net8.0/netqa.csproj.CoreCompileInputs.cache
+/Users/jannekemi/repos/temp/netqa/obj/Debug/net8.0/netqa.dll
+/Users/jannekemi/repos/temp/netqa/obj/Debug/net8.0/refint/netqa.dll
+/Users/jannekemi/repos/temp/netqa/obj/Debug/net8.0/netqa.pdb
+/Users/jannekemi/repos/temp/netqa/obj/Debug/net8.0/netqa.genruntimeconfig.cache
+/Users/jannekemi/repos/temp/netqa/obj/Debug/net8.0/ref/netqa.dll
